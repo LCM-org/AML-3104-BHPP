@@ -34,5 +34,5 @@ def predict():
     except ValueError as e:
         return render_template('error.html', error_message=str(e))
 
-if __name__ == '__main__':
-    app.run(debug=True)
+if __name__ == "__main__":
+    app.run(debug=False, threaded=True)
