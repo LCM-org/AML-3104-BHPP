@@ -53,4 +53,4 @@ Thanks to the following contributors who have played a role in developing this p
 
 
 ### Dataset
-Hate Speech Dataset : https://www.kaggle.com/datasets/andre112/measuring-hate-speech/data
+Hate Speech Dataset : https://www.kaggle.com/datasets/ashydv/housing-dataset
