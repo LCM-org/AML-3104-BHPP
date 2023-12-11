@@ -1,4 +1,4 @@
-# Hosuing Price Prediction
+# Housing Price Prediction
 
 ## Introduction
 
