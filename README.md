@@ -2,7 +2,7 @@
 
 ## Introduction
 
-Welcome to the Housing Price Predictor project! This project aims to develop a machine learning model that predicts the prices based on different hosuing parameters.
+Welcome to the Housing Price Predictor project! This project aims to develop a machine-learning model that predicts the prices based on different housing parameters.
 
 ### Project Goals
 
@@ -12,7 +12,7 @@ Welcome to the Housing Price Predictor project! This project aims to develop a m
 
 ## Getting Started
 
-Follow these steps to set up the project on your local machine.
+You can follow these steps to set up the project on your local machine.
 
 ### Prerequisites
 
@@ -53,4 +53,7 @@ Thanks to the following contributors who have played a role in developing this p
 
 
 ### Dataset
-Hate Speech Dataset : https://www.kaggle.com/datasets/ashydv/housing-dataset
+Bangalore Housing Prices Dataset: https://www.kaggle.com/datasets/aryanfelix/bangalore-housing-prices/data
+
+### Website
+Bangalore Housing Prices Predicting: https://bangalore-housing-prices.onrender.com
